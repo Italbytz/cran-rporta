@@ -4,7 +4,7 @@
 > **Autoren:** Robin Nunkesser, Silke Straatmann, Simone Wenzel  
 > **Kontext:** SFB 475 („Komplexitätsreduktion in multivariaten Datenstrukturen“), TU Dortmund  
 > **Lizenz:** GNU General Public License (GPL >= 2)  
-> **Zugehörige Publikation:** `articles/2008/rporta/` (useR! 2008)
+> **Zugehörige Publikation:** `articles/2008/user-rporta/` (useR! 2008)
 
 ---
 
